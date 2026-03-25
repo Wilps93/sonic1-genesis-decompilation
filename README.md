@@ -120,7 +120,7 @@ The original game is © 1991 SEGA. All rights reserved. Sonic The Hedgehog is a 
 
 ## 👤 Author
 
-Reverse engineered and documented by **Dokuchaev T.S.** — March 2026.
+Reverse engineered and documented by **Wilps** — March 2026.
 
 ## 📜 License
 
